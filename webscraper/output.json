@@ -1,0 +1,252 @@
+[
+    {
+        "title": "A Nightmare on Elm Street",
+        "release": "1984",
+        "rating": "7.5"
+    },
+    {
+        "title": "The Evil Dead",
+        "release": "1981",
+        "rating": "7.5"
+    },
+    {
+        "title": "Cannibal Holocaust",
+        "release": "1980",
+        "rating": "6.0"
+    },
+    {
+        "title": "The Ward",
+        "release": "2010",
+        "rating": "5.6"
+    },
+    {
+        "title": "Friday the 13th Part 2",
+        "release": "1981",
+        "rating": "6.1"
+    },
+    {
+        "title": "The Hills Have Eyes",
+        "release": "1977",
+        "rating": "6.4"
+    },
+    {
+        "title": "Sleepaway Camp",
+        "release": "1983",
+        "rating": "6.3"
+    },
+    {
+        "title": "High Tension",
+        "release": "2003",
+        "rating": "6.8"
+    },
+    {
+        "title": "The Burning",
+        "release": "1981",
+        "rating": "6.5"
+    },
+    {
+        "title": "Dead Snow",
+        "release": "2009",
+        "rating": "6.3"
+    },
+    {
+        "title": "Henry: Portrait of a Serial Killer",
+        "release": "1986",
+        "rating": "7.0"
+    },
+    {
+        "title": "Cannibal Ferox",
+        "release": "1981",
+        "rating": "5.2"
+    },
+    {
+        "title": "The Prowler",
+        "release": "1981",
+        "rating": "6.2"
+    },
+    {
+        "title": "Return of the Living Dead III",
+        "release": "1993",
+        "rating": "5.9"
+    },
+    {
+        "title": "Antropophagus",
+        "release": "1980",
+        "rating": "5.4"
+    },
+    {
+        "title": "Silent Night, Deadly Night",
+        "release": "1984",
+        "rating": "5.9"
+    },
+    {
+        "title": "Eaten Alive",
+        "release": "1976",
+        "rating": "5.5"
+    },
+    {
+        "title": "Murder Party",
+        "release": "2007",
+        "rating": "6.1"
+    },
+    {
+        "title": "Devil Fish",
+        "release": "1984",
+        "rating": "2.4"
+    },
+    {
+        "title": "The Final Terror",
+        "release": "1983",
+        "rating": "5.1"
+    },
+    {
+        "title": "The Mutilator",
+        "release": "1984",
+        "rating": "5.2"
+    },
+    {
+        "title": "Summer Camp",
+        "release": "2015",
+        "rating": "5.1"
+    },
+    {
+        "title": "Ben",
+        "release": "1972",
+        "rating": "5.3"
+    },
+    {
+        "title": "Blood Rage",
+        "release": "1987",
+        "rating": "5.9"
+    },
+    {
+        "title": "The Hills Have Eyes Part II",
+        "release": "1984",
+        "rating": "3.7"
+    },
+    {
+        "title": "Burial Ground: The Nights of Terror",
+        "release": "1981",
+        "rating": "5.7"
+    },
+    {
+        "title": "Madman",
+        "release": "1981",
+        "rating": "5.3"
+    },
+    {
+        "title": "Hell of the Living Dead",
+        "release": "1980",
+        "rating": "5.0"
+    },
+    {
+        "title": "Final Exam",
+        "release": "1981",
+        "rating": "4.8"
+    },
+    {
+        "title": "WTF!",
+        "release": "2017",
+        "rating": "4.0"
+    },
+    {
+        "title": "Dark Ride",
+        "release": "2006",
+        "rating": "4.6"
+    },
+    {
+        "title": "Undead",
+        "release": "2003",
+        "rating": "5.5"
+    },
+    {
+        "title": "Holliston",
+        "release": "2012– ",
+        "rating": "7.2"
+    },
+    {
+        "title": "Truth or Dare",
+        "release": "II 2013",
+        "rating": "5.1"
+    },
+    {
+        "title": "Nightmare City",
+        "release": "1980",
+        "rating": "5.7"
+    },
+    {
+        "title": "Arachnid",
+        "release": "2001",
+        "rating": "3.9"
+    },
+    {
+        "title": "Saturday the 14th",
+        "release": "1981",
+        "rating": "4.6"
+    },
+    {
+        "title": "Contamination",
+        "release": "1980",
+        "rating": "5.3"
+    },
+    {
+        "title": "Absurd",
+        "release": "1981",
+        "rating": "5.4"
+    },
+    {
+        "title": "The Slayer",
+        "release": "1982",
+        "rating": "4.9"
+    },
+    {
+        "title": "Shark Attack 3: Megalodon",
+        "release": "2002 Video",
+        "rating": "2.8"
+    },
+    {
+        "title": "The Dorm That Dripped Blood",
+        "release": "1982",
+        "rating": "4.9"
+    },
+    {
+        "title": "The Evil of Frankenstein",
+        "release": "1964",
+        "rating": "6.1"
+    },
+    {
+        "title": "All the Devils Are Here",
+        "release": "2014",
+        "rating": "5.8"
+    },
+    {
+        "title": "Rock 'n' Roll Nightmare",
+        "release": "1987",
+        "rating": "4.1"
+    },
+    {
+        "title": "Feeding Frenzy",
+        "release": "2010 Video",
+        "rating": "6.8"
+    },
+    {
+        "title": "Bigfoot",
+        "release": "1970",
+        "rating": "2.3"
+    },
+    {
+        "title": "Night of the Demon",
+        "release": "1980",
+        "rating": "4.8"
+    },
+    {
+        "title": "Bigfoot",
+        "release": "2012 TV Movie",
+        "rating": "2.7"
+    },
+    {
+        "title": "Route 666",
+        "release": "2001",
+        "rating": "4.4"
+    }
+]
